@@ -40,6 +40,6 @@ Backend programming<br/>
 </p>
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwonminho1992&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminho1992&layout=compact&theme=vue&hide_border=true" />
 
