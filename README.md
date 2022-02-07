@@ -3,7 +3,6 @@
 
 ## About me
 :laughing: I'm currently learning backend programming.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/>
 :email: contact : kwonmh1992@gmail.com <br/>
 
 ## Interest
@@ -33,10 +32,7 @@ Backend programming<br/>
 
 ## Contact with me
 <p>
-<a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:kwonmh1992@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- status bar -->
