@@ -6,7 +6,6 @@
 :email: contact : kwonmh1992@gmail.com <br/>
 
 ## Interest
-Data engineering<br/>
 Backend programming<br/>
 
 ## Latest projects
