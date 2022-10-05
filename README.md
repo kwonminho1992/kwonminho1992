@@ -4,6 +4,7 @@
 ## About me
 :laughing: I'm currently learning backend programming.<br/>
 :email: contact : kwonmh1992@gmail.com <br/>
+:email: development blog : https://kwonminho1992.github.io/ <br/>
 
 ## Interest
 Backend programming<br/>
